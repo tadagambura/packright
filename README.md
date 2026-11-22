@@ -58,11 +58,15 @@ Built on **The Progression Loop**, the portfolio's shared retention framework
 | Next step | After the trip: 'what didn't you use?' to improve the list |
 | Cadence | Per trip |
 
-## Animation and tone
+## Animation and tone: five signature animations
 
 **Playful.** Celebrations, confetti, cute characters, satisfying sounds and mild comic reactions. Nothing tragic.
 
-- The suitcase zips shut at 100% packed
+- Item packed: it hops into the suitcase
+- 100% packed: the suitcase zips itself shut
+- Forgot something: the charger waves from the bed
+- Overpacked: the suitcase bulges and the stickman sits on it to close it
+- Trip day: the suitcase rolls off on its own
 
 
 ## AI
