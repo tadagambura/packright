@@ -56,6 +56,13 @@ Built on **The Progression Loop**, the portfolio's shared retention framework
 | Next step | After the trip: 'what didn't you use?' to improve the list |
 | Cadence | Per trip |
 
+## Animation and tone
+
+**Playful.** Celebrations, confetti, cute characters, satisfying sounds and mild comic reactions. Nothing tragic.
+
+- The suitcase zips shut at 100% packed
+
+
 ## AI
 
 **None.** Not needed. Plain code does everything this app does.
