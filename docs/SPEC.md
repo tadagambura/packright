@@ -87,4 +87,4 @@ Used only around trips. Its job is search traffic and cross-promotion, not big r
 - [ ] Landing page
 - [ ] Analytics wired (D1/D7/D30 retention)
 - [ ] Payments / ads wired
-- [ ] Added to growth-engine as an app config
+- [ ] Added to the Growth & Maintenance Engine as an app config
