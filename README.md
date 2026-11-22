@@ -2,7 +2,7 @@
 
 **Packing lists you never write twice**
 
-> #7 of 33 in the build order · Very easy · Revenue potential: Low–medium · Plans, Trips & Occasions
+> #32 of 33 · Wave 3: Seasonal and episodic · Used: Per trip · Very easy · Revenue potential: Low–medium · Plans, Trips & Occasions
 
 ## What it is
 
@@ -55,6 +55,10 @@ Built on **The Progression Loop**, the portfolio's shared retention framework
 | Share | Lists shared with travel companions |
 | Next step | After the trip: 'what didn't you use?' to improve the list |
 | Cadence | Per trip |
+
+## AI
+
+**None.** Not needed. Plain code does everything this app does.
 
 ## Watch-outs
 
