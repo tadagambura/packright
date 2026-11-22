@@ -1,6 +1,6 @@
 # PackRight: Spec
 
-**Packing lists you never write twice** · #31 of 32 · Wave 3: Seasonal and episodic · Used: Per trip · Very easy · Revenue potential: Low–medium · Plans, Trips & Occasions · Source: New (Claude)
+**Packing lists you never write twice** · #30 of 31 · Wave 3: Seasonal and episodic · Used: Per trip · Very easy · Revenue potential: Low–medium · Plans, Trips & Occasions · Source: New (Claude)
 
 ## One-liner
 
